@@ -26,7 +26,7 @@ This is **Kuromi**, a desktop pet generated and powered by Codex.
 
 ## Automatic Installation (Recommended)
 You can also hand the zip file directly to Codex and say:
-> *Help me install this pet.*
+*Help me install this pet.*
 Codex will then automatically:
-    Extract the `kuromi` folder from the archive to `%USERPROFILE%\.codex\pets`
+Extract the `kuromi` folder from the archive to `%USERPROFILE%\.codex\pets`
 Once finished, restart Codex or refresh the pet panel to activate it.
